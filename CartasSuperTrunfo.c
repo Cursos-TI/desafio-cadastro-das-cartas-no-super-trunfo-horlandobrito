@@ -75,9 +75,7 @@ int main() {
         printf("\n=== Cartas Cadastradas ===\n");
         for (int i = 0; i < NUM_CARTAS; i++) {
             exibirCarta(i);
-        printf("Novo commit\n");
-
-        }
+              }
     
         return 0;
     }
